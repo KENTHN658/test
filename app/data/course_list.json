@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Python 101",
+        "description": "Learn Python basics",
+        "price": 34,
+        "available": true,
+        "level": "Beginner"
+    },
+    {
+        "title": "qwerewrwddd",
+        "description": "cdsdkdkmvvmrj",
+        "price": 999,
+        "available": true,
+        "level": "Advanced"
+    }
+]
